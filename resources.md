@@ -14,6 +14,8 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 [MarkUs Guide](https://teaching.utoronto.ca/tool-guides/markus/) - MarkUs guide from the University's Centre for Teaching Support & Innovation.
 
+[Programming tutorials from University of Toronto Coders](https://uoftcoders.github.io/studyGroup/lessons/) 
+
 ## Python Resources
 
 [Python official site](https://www.python.org/) 
@@ -117,4 +119,20 @@ Linguistics - [R for Linguists](https://eleanorchodroff.com/r-for-linguists/)
 Psychology - [Learning statistics with R: A tutorial for psychology students and other beginners](https://learningstatisticswithr.com/book/) 
 
 Statistics - [R Statistics from W3Schools](https://www.w3schools.com/r/r_stat_intro.asp) 
+
+## Jupyter / RStudio Resources 
+
+[An Introduction to the JupyterLab and Jupyter Notebooks](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb) 
+
+[JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)  
+
+[Markdown for Jupyter notebooks cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)  
+
+[Getting Started with R and R Studio from the Map and Data Library](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio)  
+
+[RStudio Tutorial: A Complete Beginner's Guide](https://www.datacamp.com/tutorial/r-studio-tutorial)  
+
+
+
+
 
