@@ -86,3 +86,35 @@ Statistics - [Introduction to Python for Data Analysis](https://www.sfu.ca/~mjbr
 
 [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
 
+## Domain Specific R Resources
+
+Chemistry - [Chemometrics Using R](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey))
+
+Chemistry - [Basic Analysis in R - An Introduction for Data Analysis in Chemistry](https://chrismgentry.github.io/chemstats/) 
+
+Ecology - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.github.io/R-ecology-lesson/) 
+
+Economics - [R for Applied Economics: A Beginner’s Guide](https://bookdown.org/mbrown35/bookdown-Rguide/) 
+
+Economics - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) 
+
+Economics - [Economic Analysis with R](https://economic-analysis-with-r.uni-goettingen.de/) 
+
+Environmental Science - [Introduction to Environmental Data Science](https://bookdown.org/igisc/EnvDataSci/) 
+
+Geography - [Geocomputation with R](https://r.geocompx.org/intro)
+
+Geography - [Introduction to GIS using R (Map and Data Library)](https://mdl.library.utoronto.ca/technology/tutorials/introduction-gis-using-r) 
+
+Geography - [R Geography from UBC](https://ubc-geography.github.io/computing-resources/r/index.html) 
+
+Humanities - [Introduction to R for the humanities](https://mint.westdri.ca/r/ws_hss_intro) 
+
+Humanities - [Statistical Methods for Studying Literature Using R](https://www.chlt.org/StatisticalMethods/index.html) 
+
+Linguistics - [R for Linguists](https://eleanorchodroff.com/r-for-linguists/) 
+
+Psychology - [Learning statistics with R: A tutorial for psychology students and other beginners](https://learningstatisticswithr.com/book/) 
+
+Statistics - [R Statistics from W3Schools](https://www.w3schools.com/r/r_stat_intro.asp) 
+
