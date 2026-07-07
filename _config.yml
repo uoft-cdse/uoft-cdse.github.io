@@ -1,24 +1,16 @@
 # Theme Setup
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
 
 # Initiative Identity
-title: Computation and Data Science Education (CDSE) initiative
+title: CDSE Initiative
+subtitle: Faculty of Arts & Science, University of Toronto
 description: >-
   The Computation and Data Science Education (CDSE) initiative helps instructors 
   within the University of Toronto’s Faculty of Arts & Science integrate 
   computational and data-science methods tailored to their disciplines and courses.
 
-# Navigation Controller (tells the theme to look for a navigation file)
-navigation:
-  - container: main
-
-# Defaults for your markdown pages
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "single"      # The standard rich layout for pages
-      author_profile: true  # Shows the side sidebar panel
+# Theme Features
+navbar_fixed: true
+toggle_theme: true # Enables the light/dark mode switch in the nav bar
