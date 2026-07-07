@@ -4,4 +4,4 @@ Working alongside the broader Faculty of Arts & Science Teaching & Learning team
 * Development of course materials leveraging our in-house toolkit found at datatools.utoronto.ca - allowing assignment completion and submission using Python or R 
 * Development of written resources and guides for instructors, teaching assistants, and/or students
 
-Contact: <teachinglearning.artsci@utoronto.ca> 
+**Contact: <teachinglearning.artsci@utoronto.ca>** 
