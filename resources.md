@@ -30,4 +30,42 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 [An Introduction to Programming for Absolute Beginners Using Python from the Map & Data Library](https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops) 
 
+## Domain Specific Python Resources
 
+Cultural Analytics - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) 
+
+Social Science - [Introduction to Computational Social Science with Python](https://github.com/gesis-css-python/materials) 
+
+Digital Humanities - [Python for Digital Humanities](https://pythonhumanities.com/course/) 
+
+Chemistry - [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html) 
+
+Data Science - [Python Data Science Handbook](https://github.com/jakevdp/pythondatasciencehandbook) 
+
+Earth Sciences - [Python Resources for Earth Sciences](https://github.com/javedali99/python-resources-for-earth-sciences) 
+
+Environmental Science - [Open Resources for Environmental Scientists to Get Started with Machine Learning](https://github.com/tbeucler/ML_for_Environmental_Science) 
+
+Economics - [PyEcon - Python for Econometrics](https://pyecon.org/about/) 
+
+Economics - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html)
+
+Geography - [Geospatial Analysis with Python & Jupyter Notebooks](https://github.com/MDLutoronto/SpatialAnalysisJupyter/blob/main/MDLGeopandasWorkshop.ipynb) 
+
+Geography - [Introduction to Python for Geographic Data Analysis](https://pythongis.org/) 
+
+Ecology - [Python for Ecologists](https://thejacksonlaboratory.github.io/python-ecology-lesson/) 
+
+Linguistics - [Python for Linguists](https://github.com/dirkhovy/python_for_linguists) 
+
+Mathematics - [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/) 
+
+Mathematics - [Python for Mathematics](https://vknight.org/pfm/cover.html) 
+
+Physics - [Computational Physics](https://computation.physics.utoronto.ca/) 
+
+Statistics - [Statistics in Python](https://scipy-lectures.org/packages/statistics/) 
+
+Statistics - [Introduction to Python for Data Analysis](https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/01_intro.html) 
+
+Astronomy - [Python for Astronomers](https://prappleizer.github.io/) 
