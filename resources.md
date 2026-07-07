@@ -69,3 +69,20 @@ Social Science - [Introduction to Computational Social Science with Python](http
 Statistics - [Statistics in Python](https://scipy-lectures.org/packages/statistics/) 
 
 Statistics - [Introduction to Python for Data Analysis](https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/01_intro.html) 
+
+## R Resources
+
+[R Official Website](https://www.r-project.org/) 
+
+[An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) 
+
+[Tidyverse Data Science R Packages](https://tidyverse.org/)  
+
+[R for Data Science (2nd edition)](https://r4ds.hadley.nz/)  
+
+[R Tutorials from W3Schools](https://www.w3schools.com/r/) 
+
+[Getting Started with the R Programming Language](https://www.neonscience.org/resources/learning-hub/tutorials/getting-started-r) 
+
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
+
