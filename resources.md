@@ -13,3 +13,21 @@ Welcome to our curated list of resources that will help instructors integrate pr
 [MarkUs Documentation Wiki](https://github.com/MarkUsProject/Wiki/blob/release/Home.md) 
 
 [MarkUs Guide](https://teaching.utoronto.ca/tool-guides/markus/) - MarkUs guide from the University's Centre for Teaching Support & Innovation.
+
+## Python Resources
+
+[Python official site](https://www.python.org/) 
+
+[Python documentation](https://docs.python.org/3/) 
+
+[Python downloads](https://www.python.org/downloads/) 
+
+[How to Install Python from Real Python](https://realpython.com/installing-python/) 
+
+[Python tutorial from W3Schools](https://www.w3schools.com/python/) 
+
+[Python tutorials from Learn Python](https://www.learnpython.org/) 
+
+[An Introduction to Programming for Absolute Beginners Using Python from the Map & Data Library](https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops) 
+
+
