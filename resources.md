@@ -32,29 +32,29 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 ## Domain Specific Python Resources
 
-Cultural Analytics - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) 
-
-Social Science - [Introduction to Computational Social Science with Python](https://github.com/gesis-css-python/materials) 
-
-Digital Humanities - [Python for Digital Humanities](https://pythonhumanities.com/course/) 
+Astronomy - [Python for Astronomers](https://prappleizer.github.io/) 
 
 Chemistry - [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html) 
 
+Cultural Analytics - [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) 
+
 Data Science - [Python Data Science Handbook](https://github.com/jakevdp/pythondatasciencehandbook) 
+
+Digital Humanities - [Python for Digital Humanities](https://pythonhumanities.com/course/) 
 
 Earth Sciences - [Python Resources for Earth Sciences](https://github.com/javedali99/python-resources-for-earth-sciences) 
 
-Environmental Science - [Open Resources for Environmental Scientists to Get Started with Machine Learning](https://github.com/tbeucler/ML_for_Environmental_Science) 
+Ecology - [Python for Ecologists](https://thejacksonlaboratory.github.io/python-ecology-lesson/) 
 
 Economics - [PyEcon - Python for Econometrics](https://pyecon.org/about/) 
 
 Economics - [Coding for Economists](https://aeturrell.github.io/coding-for-economists/index.html)
 
+Environmental Science - [Open Resources for Environmental Scientists to Get Started with Machine Learning](https://github.com/tbeucler/ML_for_Environmental_Science) 
+
 Geography - [Geospatial Analysis with Python & Jupyter Notebooks](https://github.com/MDLutoronto/SpatialAnalysisJupyter/blob/main/MDLGeopandasWorkshop.ipynb) 
 
 Geography - [Introduction to Python for Geographic Data Analysis](https://pythongis.org/) 
-
-Ecology - [Python for Ecologists](https://thejacksonlaboratory.github.io/python-ecology-lesson/) 
 
 Linguistics - [Python for Linguists](https://github.com/dirkhovy/python_for_linguists) 
 
@@ -64,8 +64,8 @@ Mathematics - [Python for Mathematics](https://vknight.org/pfm/cover.html)
 
 Physics - [Computational Physics](https://computation.physics.utoronto.ca/) 
 
+Social Science - [Introduction to Computational Social Science with Python](https://github.com/gesis-css-python/materials) 
+
 Statistics - [Statistics in Python](https://scipy-lectures.org/packages/statistics/) 
 
 Statistics - [Introduction to Python for Data Analysis](https://www.sfu.ca/~mjbrydon/tutorials/BAinPy/01_intro.html) 
-
-Astronomy - [Python for Astronomers](https://prappleizer.github.io/) 
