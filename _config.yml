@@ -1,4 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 title: Computation and Data Science Education (CDSE) initiative
