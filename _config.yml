@@ -1,16 +1,3 @@
-# Theme Setup
-remote_theme: alshedivat/al-folio
-plugins:
-  - jekyll-remote-theme
-
-# Initiative Identity
-title: CDSE Initiative
-subtitle: Faculty of Arts & Science, University of Toronto
-description: >-
-  The Computation and Data Science Education (CDSE) initiative helps instructors 
-  within the University of Toronto’s Faculty of Arts & Science integrate 
-  computational and data-science methods tailored to their disciplines and courses.
-
-# Theme Features
-navbar_fixed: true
-toggle_theme: true # Enables the light/dark mode switch in the nav bar
+theme: jekyll-theme-minimal
+title: Computation and Data Science Education (CDSE) initiative
+description: The Computation and Data Science Education (CDSE) initiative helps instructors within the University of Toronto’s Faculty of Arts & Science integrate computational and data-science methods tailored to their disciplines and courses.
