@@ -11,17 +11,24 @@
   <body>
     <div class="wrapper">
 
+      <div style="width: 100%; margin-bottom: 20px; overflow: hidden; border-radius: 6px;">
+        <img src="{{ '/assets/images/banner.png' | relative_url }}" 
+             alt="U of T CDSE Abstract Programming Banner" 
+             style="width: 100%; max-height: 215px; object-fit: cover; display: block; border: 1px solid #e5e5e5;">
+      </div>
+
       <nav style="width: 100%; border-bottom: 1px solid #e5e5e5; padding-bottom: 15px; margin-bottom: 30px;">
         <ul style="list-style: none; padding-left: 0; margin: 0; display: flex; gap: 20px;">
           <li><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: #1e6bb8;"><strong>Home</strong></a></li>
           <li><a href="{{ '/resources.html' | relative_url }}" style="text-decoration: none; color: #1e6bb8;"><strong>Resources</strong></a></li>
         </ul>
       </nav>
+
       <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | relative_url }}" style="color: #1e6bb8; text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          <img src="{{ site.logo | relative_url }}" alt="Logo" style="max-width: 120px; height: auto; margin-top: 10px; border-radius: 4px;" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -34,16 +41,17 @@
           </ul>
         {% endif %}
       </header>
+
       <section>
-
-      {{ content }}
-
+        {{ content }}
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_name }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
      </footer>
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
