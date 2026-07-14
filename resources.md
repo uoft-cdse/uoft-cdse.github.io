@@ -5,8 +5,19 @@ nav_order: 2
 ---
 
 # CDSE Resources
+{: .no_toc }
 
 Welcome to our curated list of resources that will help instructors integrate programming-based coursework into their curriculum. Below, you will find University platforms and resources, foundational Python and R language guides, and tailored tutorials sorted by academic discipline to help you get started. 
+
+<!-- This generates your interactive table of contents -->
+<details open markdown="block">
+  <summary>
+    Table of Contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## University of Toronto Resources 
 
