@@ -1,16 +1,13 @@
-// Target the site header wrapper on both desktop and mobile
-.site-header {
-  // Add padding to the container itself to push the border line down
-  padding-top: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
+SCSS
+// Custom CSS to fix long sidebar titles from cutting off
+.site-title {
+  white-space: normal !important; // Allows the long title to wrap to multiple lines
+  word-wrap: break-word;          // Ensures it breaks cleanly if needed
+  line-height: 1.25 !important;   // Adds comfortable spacing between wrapped lines
+  padding-bottom: 10px;           // Prevents it from clipping into the horizontal divider
+}
 
-  .site-title {
-    display: block !important;      /* Forces inline <a> to act like a block, enabling padding/margins */
-    white-space: normal !important;  /* Allows title to wrap */
-    word-wrap: break-word !important; 
-    line-height: 1.3 !important;
-    
-    // Spacing directly beneath the text
-    margin-bottom: 0.5rem !important; 
-  }
+// Optional: Slightly shrink the title text on mobile/desktop so it fits beautifully
+.site-header .site-title {
+  font-size: 1.15rem !important;  // Defaults to a slightly smaller, cleaner font size
 }
