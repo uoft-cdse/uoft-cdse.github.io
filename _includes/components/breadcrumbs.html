@@ -1,0 +1,21 @@
+<!-- Your Custom Banner -->
+   <div style="width: 100%; margin-bottom: 20px; overflow: hidden; border-radius: 6px;">
+        <img src="{{ '/assets/images/banner.jpg' | relative_url }}" 
+             alt="U of T CDSE Abstract Programming Banner" 
+             style="width: 100%; max-height: 215px; object-fit: cover; display: block; border: 1px solid #e5e5e5;">
+</div>
+
+<!-- Default Just the Docs Breadcrumbs Logic -->
+{% if page.parent %}
+  <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+    <ol class="breadcrumb-nav-list">
+      {% if page.grand_parent %}
+        <li class="breadcrumb-nav-list-item"><a href="{{ page.grand_parent | relative_url }}">{{ page.grand_parent }}</a></li>
+        <li class="breadcrumb-nav-list-item"><a href="{{ page.parent | relative_url }}">{{ page.parent }}</a></li>
+      {% else %}
+        <li class="breadcrumb-nav-list-item"><a href="{{ page.parent | relative_url }}">{{ page.parent }}</a></li>
+      {% endif %}
+      <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
+    </ol>
+  </nav>
+{% endif %}
