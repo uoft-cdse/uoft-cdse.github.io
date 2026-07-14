@@ -8,7 +8,7 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 [JupyterHub guide](https://teaching.utoronto.ca/tool-guides/jupyterhub/) - JupyterHub guide from the University's Centre for Teaching Support & Innovation. 
 
-[MarkUs](https://markus.teach.cs.toronto.edu/markus/main/login_remote_auth) - MarkUs is a web application for the submission and grading of student programming assignments. UTORid login required. 
+[MarkUs](https://markus-docs.teach.cs.toronto.edu/) - MarkUs is a web application for the submission and grading of student programming assignments. UTORid login required. 
 
 [MarkUs Documentation Wiki](https://github.com/MarkUsProject/Wiki/blob/release/Home.md) 
 
