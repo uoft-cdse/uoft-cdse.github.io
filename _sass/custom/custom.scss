@@ -1,13 +1,4 @@
-SCSS
-// Custom CSS to fix long sidebar titles from cutting off
+// Shrink the site title text size in the sidebar
 .site-title {
-  white-space: normal !important; // Allows the long title to wrap to multiple lines
-  word-wrap: break-word;          // Ensures it breaks cleanly if needed
-  line-height: 1.25 !important;   // Adds comfortable spacing between wrapped lines
-  padding-bottom: 10px;           // Prevents it from clipping into the horizontal divider
-}
-
-// Optional: Slightly shrink the title text on mobile/desktop so it fits beautifully
-.site-header .site-title {
-  font-size: 1.15rem !important;  // Defaults to a slightly smaller, cleaner font size
+  font-size: 14px !important; // Default is usually around 18px-24px
 }
