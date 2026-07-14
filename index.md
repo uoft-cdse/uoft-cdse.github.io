@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+nav_enabled: true
 ---
 
 Working alongside the broader Faculty of [Arts & Science Teaching & Learning](https://www.artsci.utoronto.ca/faculty-staff/teaching) team, we offer a range of pedagogical and technical supports for existing and new courses, including: 
