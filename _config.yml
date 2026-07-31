@@ -12,5 +12,5 @@ aux_links:
 
 nav_external_links:
     - title: "Python Tutorials"
-    url: "https://github.com/uoft-cdse/pythonTutorials/"
-    hide_in_nav: false 
+      url: "https://github.com/uoft-cdse/pythonTutorials/"
+      hide_in_nav: false 
