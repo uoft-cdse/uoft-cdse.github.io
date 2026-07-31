@@ -8,3 +8,4 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   "Home": "/"
   "Resources": "/resources.html"
+  "Python Tutorials": "https://github.com/uoft-cdse/pythonTutorials/"
