@@ -21,13 +21,13 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 ## University of Toronto Resources 
 
-[JupyterHub](https://datatools.utoronto.ca/) - University run web platform that allows for working with Python and R scripts. Includes access to RStudio, Jupyter and JupyterLab.  
+[JupyterHub](https://datatools.utoronto.ca/) - University-run web platform that allows for working with Python and R scripts. Includes access to RStudio, Jupyter and JupyterLab.  
 
 [JupyterHub guide](https://teaching.utoronto.ca/tool-guides/jupyterhub/) - JupyterHub guide from the University's Centre for Teaching Support & Innovation. 
 
-[MarkUs](https://markus-docs.teach.cs.toronto.edu/) - MarkUs is a web application for the submission and grading of student programming assignments. UTORid login required. 
+[MarkUs](https://markus-docs.teach.cs.toronto.edu/) - MarkUs is a web application that includes an automated testing feature, allowing instructors and TAs to create tests that automatically check student submissions and provide pass/fail results. Instructors can also allow students to run selected tests before submitting their work. 
 
-[MarkUs Documentation Wiki](https://github.com/MarkUsProject/Wiki/blob/release/Home.md) 
+[MarkUs Documentation Wiki](https://markus-docs.teach.cs.toronto.edu/) 
 
 [MarkUs Guide](https://teaching.utoronto.ca/tool-guides/markus/) - MarkUs guide from the University's Centre for Teaching Support & Innovation.
 
@@ -148,8 +148,3 @@ Statistics - [R Statistics from W3Schools](https://www.w3schools.com/r/r_stat_
 [Getting Started with R and R Studio from the Map and Data Library](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio)  
 
 [RStudio Tutorial: A Complete Beginner's Guide](https://www.datacamp.com/tutorial/r-studio-tutorial)  
-
-
-
-
-
