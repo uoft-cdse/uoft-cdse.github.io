@@ -9,32 +9,34 @@ permalink: /resources/assessment/
 # Assessment & Automated Testing
 {: .no_toc }
 
-Resources for instructors and teaching assistants using automated testing, assignment submission, and grading tools for programming-based coursework.
+Resources for instructors and teaching assistants who want to use digital tools to support programming assignments, grading, and automated checks.
 
 ## MarkUs
 
-MarkUs is a web application used for the submission, grading, and management of programming assignments. University of Toronto users can access MarkUs using their UTORid.
+MarkUs is a web application used to collect, manage, and grade programming assignments. University of Toronto users can access MarkUs using their UTORid.
+
+Instructors who want to use MarkUs with a course should first request course access by contacting instrsoft@teach.cs.toronto.edu.
 
 [Access MarkUs](https://markus.teach.cs.toronto.edu/markus)
 
-[MarkUs Documentation Wiki](https://github.com/MarkUsProject/Wiki/blob/release/Home.md)
-
 [University of Toronto MarkUs Guide](https://teaching.utoronto.ca/tool-guides/markus/)
+
+[MarkUs Documentation Wiki](https://github.com/MarkUsProject/Wiki/blob/release/Home.md)
 
 ## Automated Testing
 
-MarkUs includes an Automated Testing feature, allowing instructors and TAs to create tests that automatically check student submissions and provide pass/fail results. Instructors can also allow students to run selected tests before submitting their work.
+MarkUs can automatically check parts of a student submission using tests created by the instructor or teaching team. These tests can show whether specific requirements have been met and can help make grading more consistent. Instructors can also choose to let students run selected tests before submitting their final work.
 
 ## Related Tools & Integrations
 
 ### Jupyter–MarkUs Integration
 
-A JupyterLab extension that allows students to submit notebooks directly to MarkUs and supports assignment-specific submission workflows.
+Allows students working in JupyterLab to submit notebooks directly to MarkUs without leaving the Jupyter environment.
 
 ### RMarkUs
 
-An RStudio integration designed to allow students to submit R work directly to MarkUs.
+Allows students working in RStudio to submit R work directly to MarkUs.
 
 ### Autotest Helpers
 
-Utilities for creating automated tests for computational assignments, including support for checking outputs and selected elements of student-generated visualizations.
+Provides tools that help instructors create automated checks for programming assignments, including checks for outputs and selected elements of student-created graphs.

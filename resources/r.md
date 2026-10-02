@@ -9,31 +9,31 @@ permalink: /resources/r/
 # R & RStudio
 {: .no_toc }
 
-Resources for instructors, teaching assistants, and students using R and RStudio in teaching and coursework.
+Resources for instructors, teaching assistants, and students who are using R and RStudio for teaching, learning, and coursework.
 
 ## Getting Started with R
 
-[R Project Website](https://www.r-project.org/) 
+[R Project Website](https://www.r-project.org/)
 
-[Getting Started with the R Programming Language](https://www.neonscience.org/resources/learning-hub/tutorials/getting-started-r) 
+[Getting Started with R](https://www.neonscience.org/resources/learning-hub/tutorials/getting-started-r)
 
-[Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
-## R Documentation & Learning Resources
+## Learning R
 
-[An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) 
+[An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
 
-[Tidyverse Data Science R Packages](https://tidyverse.org/)  
+[Tidyverse](https://tidyverse.org/)
 
-[R for Data Science (2nd edition)](https://r4ds.hadley.nz/)  
+[R for Data Science](https://r4ds.hadley.nz/)
 
-[R Tutorials from W3Schools](https://www.w3schools.com/r/) 
+[R Tutorials from W3Schools](https://www.w3schools.com/r/)
 
-## RStudio Resources 
+## RStudio Resources
 
-[Getting Started with R and R Studio from the Map and Data Library](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio)  
+[Getting Started with R and RStudio](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-r-and-r-studio) - University of Toronto Map & Data Library.
 
-[RStudio Tutorial: A Complete Beginner's Guide](https://www.datacamp.com/tutorial/r-studio-tutorial)  
+[RStudio Tutorial: A Complete Beginner's Guide](https://www.datacamp.com/tutorial/r-studio-tutorial)
 
 ## Discipline-Specific R Resources
 

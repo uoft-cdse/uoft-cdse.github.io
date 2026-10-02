@@ -8,9 +8,9 @@ nav_enabled: true
 # Computation & Data Science Education (CDSE)
 {: .no_toc }
 
-The Computation & Data Science Education (CDSE) initiative supports instructors and teaching teams within the University of Toronto’s Faculty of Arts & Science in incorporating computation and data science into teaching and coursework.
+The Computation & Data Science Education (CDSE) initiative supports instructors and teaching teams within the University of Toronto’s Faculty of Arts & Science who want to incorporate computation and data science into their teaching and coursework.
 
-Working alongside the broader Faculty of [Arts & Science Teaching & Learning](https://www.artsci.utoronto.ca/faculty-staff/teaching) team, CDSE provides pedagogical and technical support for existing and new courses.
+Working alongside the broader Faculty of [Arts & Science Teaching & Learning](https://www.artsci.utoronto.ca/faculty-staff/teaching) team, CDSE provides teaching and technical support for existing and new courses.
 
 ## How We Can Help
 
@@ -18,17 +18,17 @@ Working alongside the broader Faculty of [Arts & Science Teaching & Learning](ht
 
   <div class="home-support-card">
     <h3>Course & Curriculum Support</h3>
-    <p>Consultations on the development of courses, course components, assignments, and teaching strategies related to computation and data science.</p>
+    <p>Support with developing courses, course components, assignments, and teaching approaches that incorporate computation and data science.</p>
   </div>
 
   <div class="home-support-card">
     <h3>Computational Teaching Tools</h3>
-    <p>Support for incorporating tools such as Jupyter, RStudio, MarkUs, and other computational environments into teaching and assessment.</p>
+    <p>Support for using tools such as Jupyter, RStudio, and MarkUs in teaching and assessment.</p>
   </div>
 
   <div class="home-support-card">
     <h3>Resources & Guides</h3>
-    <p>Written resources and guides for instructors, teaching assistants, and students using Python, R, Jupyter, automated testing, and other computational tools.</p>
+    <p>Resources for instructors, teaching assistants, and students using Python, R, Jupyter, automated testing, and other computational tools.</p>
   </div>
 
 </div>
@@ -37,7 +37,7 @@ Working alongside the broader Faculty of [Arts & Science Teaching & Learning](ht
 
 ## University of Toronto Data Tools
 
-The Faculty of Arts & Science provides access to [datatools.utoronto.ca](https://datatools.utoronto.ca/), a University-supported environment for working with Python and R through tools such as Jupyter, JupyterLab, and RStudio.
+The Faculty of Arts & Science provides access to [datatools.utoronto.ca](https://datatools.utoronto.ca/), a University-supported environment for working with Python and R through Jupyter, JupyterLab, and RStudio.
 
 ## Contact
 

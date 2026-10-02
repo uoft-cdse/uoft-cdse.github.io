@@ -9,33 +9,33 @@ permalink: /resources/python/
 # Python & Jupyter
 {: .no_toc }
 
-Resources for instructors, teaching assistants, and students using Python and Jupyter in teaching and coursework.
+Resources for instructors, teaching assistants, and students who are using Python and Jupyter for teaching, learning, and coursework.
 
 ## Getting Started with Python
 
-[Python official site](https://www.python.org/) 
+[Python Website](https://www.python.org/)
 
-[Python downloads](https://www.python.org/downloads/) 
+[Download Python](https://www.python.org/downloads/)
 
-[How to Install Python from Real Python](https://realpython.com/installing-python/) 
+[How to Install Python](https://realpython.com/installing-python/)
 
-[An Introduction to Programming for Absolute Beginners Using Python from the Map & Data Library](https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops) 
+[An Introduction to Programming for Absolute Beginners Using Python](https://mdl.library.utoronto.ca/technology/tutorials/python-information-tutorials-and-workshops) - University of Toronto Map & Data Library.
 
-## Python Documentation & Learning Resources
+## Learning Python
 
-[Python documentation](https://docs.python.org/3/) 
+[Python Documentation](https://docs.python.org/3/)
 
-[Python tutorial from W3Schools](https://www.w3schools.com/python/) 
+[Python Tutorial from W3Schools](https://www.w3schools.com/python/)
 
-[Python tutorials from Learn Python](https://www.learnpython.org/) 
+[Learn Python](https://www.learnpython.org/)
 
 ## Jupyter & Notebook Resources
 
-[An Introduction to JupyterLab and Jupyter Notebooks](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb) 
+[Introduction to JupyterLab and Jupyter Notebooks](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
 
-[JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)  
+[JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 
-[Markdown for Jupyter notebooks cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)  
+[Working with Markdown Cells](https://github.com/jupyter/notebook/blob/main/docs/source/examples/Notebook/Working%20With%20Markdown%20Cells.ipynb)
 
 ## Discipline-Specific Python Resources
 

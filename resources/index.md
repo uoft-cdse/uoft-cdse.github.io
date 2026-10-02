@@ -12,6 +12,22 @@ has_toc: false
 
 Explore resources for incorporating computation and data science into teaching and coursework. Resources are organized by programming environment, assessment tools, and course design topics.
 
+## Where Should I Start?
+
+Not sure which resource section you need? Start with the goal that best matches what you are trying to do.
+
+- **I want to teach with Python or Jupyter.**  
+  Visit [Python & Jupyter]({{ '/resources/python/' | relative_url }}).
+
+- **I want to teach with R or RStudio.**  
+  Visit [R & RStudio]({{ '/resources/r/' | relative_url }}).
+
+- **I want to create or improve programming assignments, grading, or automated tests.**  
+  Visit [Assessment & Automated Testing]({{ '/resources/assessment/' | relative_url }}).
+
+- **I want help designing a course or integrating computational activities into my teaching.**  
+  Visit [Teaching & Course Design]({{ '/resources/teaching/' | relative_url }}).
+
 ## Resource Areas
 
 <div class="resource-grid">
