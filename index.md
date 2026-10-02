@@ -37,7 +37,7 @@ Working alongside the broader Faculty of [Arts & Science Teaching & Learning](ht
 
 ## University of Toronto Data Tools
 
-The Faculty of Arts & Science provides access to [datatools.utoronto.ca](https://datatools.utoronto.ca/), a University-supported environment for working with Python and R through Jupyter, JupyterLab, and RStudio.
+The University provides access to [datatools.utoronto.ca](https://datatools.utoronto.ca/), a University-supported environment for working with Python and R through Jupyter, JupyterLab, and RStudio.
 
 ## Contact
 
