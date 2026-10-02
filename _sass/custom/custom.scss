@@ -1,7 +1,7 @@
 // Shrink the site title text size in the sidebar
 .site-title {
-  font-size: 15px !important; // Default is usually around 18px-24px
-  font-weight: bold !important;
+  font-size: 1rem;
+  line-height: 1.15;
 }
 
 #markdown-toc {
@@ -13,4 +13,91 @@
     padding-left: 3em !important;
     padding-top: 1em !important;
     padding-bottom: 1em !important;
+}
+
+// Resource overview cards
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.resource-card {
+  border: 1px solid #d9dce3;
+  border-radius: 6px;
+  padding: 1.25rem;
+  background: #fff;
+}
+
+.resource-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.resource-card p {
+  margin-bottom: 0;
+}
+
+.resource-card a {
+  text-decoration: none;
+}
+
+.resource-card a:hover {
+  text-decoration: underline;
+}
+
+// Two-column layout for discipline-specific resource lists
+.discipline-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.discipline-grid p {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  line-height: 1.45;
+}
+
+// Homepage support cards
+.home-support-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 1.5rem;
+}
+
+.home-support-card {
+  border: 1px solid #d9dce3;
+  border-radius: 6px;
+  padding: 1.25rem;
+  background: #fff;
+}
+
+.home-support-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.home-support-card p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .home-support-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .resource-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .discipline-grid {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
 }
