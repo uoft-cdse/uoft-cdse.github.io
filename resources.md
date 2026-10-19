@@ -33,6 +33,8 @@ Welcome to our curated list of resources that will help instructors integrate pr
 
 [Programming tutorials from University of Toronto Coders](https://uoftcoders.github.io/studyGroup/lessons/) 
 
+[Hybrid Modules to Bridge Biotechnology and Computer Science](https://cs-biotech.github.io/) - Bridging Biotechnology and Computer Science at the University of Toronto
+
 ## Python Resources
 
 [Python official site](https://www.python.org/) 
@@ -110,6 +112,8 @@ Statistics - [Introduction to Python for Data Analysis](https://www.sfu.ca/~mjbr
 Chemistry - [Chemometrics Using R](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey))
 
 Chemistry - [Basic Analysis in R - An Introduction for Data Analysis in Chemistry](https://chrismgentry.github.io/chemstats/) 
+
+Chemistry - [R for Environmental Chemistry](https://uoftchem-teaching.github.io/R4EnvChem/)
 
 Ecology - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.github.io/R-ecology-lesson/) 
 
